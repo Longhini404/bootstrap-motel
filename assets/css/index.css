@@ -1,0 +1,9 @@
+.phone:hover::before {
+  background-color: red !important;
+  border-color: red !important;
+  color: #fff;
+}
+
+.phone:hover {
+  border-color: red !important;
+}
