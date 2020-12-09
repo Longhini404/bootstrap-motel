@@ -238,7 +238,7 @@
                 });
             }
         </script>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCk8p7opkd_26vgxj9zAVuJloDuRgf9sDA&callback=initMap"
+        <script src=""
                 async defer></script>
     </section>
     <!-- / Map -->
